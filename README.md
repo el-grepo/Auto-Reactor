@@ -10,7 +10,7 @@
   ![Screens](pics/screens.png)
   ### Also:
   
-  Glass paneling used to cover supply cables and other components for safety and visibility.
+  Glass panelling used to cover supply cables and other components for safety and visibility.
   
   Gravel dumping mechanism in case of meltdown
   
