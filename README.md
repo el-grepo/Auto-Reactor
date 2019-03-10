@@ -27,3 +27,5 @@
 
 ## Notes:
   The reactor alarm klaxon will almost definitely sound during activation. Maybe even twice.
+
+  Built and tested on Minetest 0.4.17.1.
