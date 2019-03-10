@@ -9,11 +9,9 @@
   ### Provides power output at all three voltage levels, monitored by helpful screen readouts.
   ![Screens](pics/screens.png)
   ### Also:
-  
   Glass panelling used to cover supply cables and other components for safety and visibility.
   
   Gravel dumping mechanism in case of meltdown.
-  
   
 ## You will need:
  [ Minetest.](https://minetest.net)
@@ -23,7 +21,7 @@
 ## How to?
   See Minetest documentation on how to install and enable mods.
   
-  Download [this](Auto-Reactor.we) file (Auto-Reactor.we).
+  Download [this](https://github.com/el-grepo/Auto-Reactor/raw/master/Auto-Reactor.we) file (Auto-Reactor.we).
   
   See WorldEdit documentation on how to load the file in your (preferably new) world.
 
