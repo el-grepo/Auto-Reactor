@@ -25,7 +25,7 @@
   
   Download [this](Auto-Reactor.we) file (Auto-Reactor.we).
   
-  See WorldBuilder documentation on how to load the file in your (preferably new) world.
+  See WorldEdit documentation on how to load the file in your (preferably new) world.
 
 ## Notes:
   The reactor alarm klaxon will almost definitely sound during activation. Maybe even twice.
