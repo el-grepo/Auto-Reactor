@@ -1,5 +1,5 @@
 # Auto-Reactor
-### Nuclear energy in Minetest at the push of a button.
+### Prefab explorable nuclear reactor for Minetest.
 ![Front](pics/front.png)
 ## Features:
   ### Ships in an open air configuration. Perfect for close inspection or educational showcasing.
