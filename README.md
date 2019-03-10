@@ -23,7 +23,7 @@
 ## How to?
   See Minetest documentation on how to install and enable mods.
   
-  Download [this](Auto-Reactor.we) file.
+  Download [this](Auto-Reactor.we) file (Auto-Reactor.we).
   
   See WorldBuilder documentation on how to load the file in your (preferably new) world.
 
