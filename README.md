@@ -16,7 +16,7 @@
   
   
 ## You will need:
-  Minetest.
+ [ Minetest.](minetest.net)
   
   The mods technic, mesecons, digilines, pipeworks and their dependencies; as well as dynamic_liquid for the pump to actually flood the reactor and WorldEdit or some way of loading the schem file.
 
