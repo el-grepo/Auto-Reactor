@@ -20,5 +20,12 @@
   
   The mods technic, mesecons, digilines, pipeworks and their dependencies; as well as dynamic_liquid for the pump to actually flood the reactor and WorldEdit or some way of loading the schem file.
 
+## How to?
+  See Minetest documentation on how to install and enable mods.
+  
+  Download [this](Auto-Reactor.we) file.
+  
+  See WorldBuilder documentation on how to load the file in your (preferably new) world.
+
 ## Notes:
   The reactor alarm klaxon will almost definitely sound during activation. Maybe even twice.
